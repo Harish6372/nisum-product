@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoNisumJereyApplication {
 
 	public static void main(String[] args) {
+		
 		SpringApplication.run(DemoNisumJereyApplication.class, args);
 	}
 }
