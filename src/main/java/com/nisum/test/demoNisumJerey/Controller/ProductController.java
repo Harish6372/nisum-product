@@ -6,7 +6,7 @@ public class ProductController {
 	{
 		return null;
 	}
-	public String getALlProductss()
+	public String getALlProductssss()
 	{
 		return null;
 	}
