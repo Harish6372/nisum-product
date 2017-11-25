@@ -4,7 +4,7 @@ public class ProductController {
 
 	public String getALlProducts()
 	{
-		return null;
+		return "product";
 	}
 	public String getALlProductss()
 	{
