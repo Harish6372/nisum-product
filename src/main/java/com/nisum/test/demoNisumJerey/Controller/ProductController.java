@@ -6,4 +6,8 @@ public class ProductController {
 	{
 		return null;
 	}
+	public String getALlProductss()
+	{
+		return null;
+	}
 }
