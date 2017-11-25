@@ -9,5 +9,6 @@ public class DemoNisumJereyApplication {
 	public static void main(String[] args) {
 		
 		SpringApplication.run(DemoNisumJereyApplication.class, args);
+		System.out.println("naskjdkjas");
 	}
 }
