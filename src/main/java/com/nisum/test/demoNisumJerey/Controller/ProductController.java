@@ -8,6 +8,6 @@ public class ProductController {
 	}
 	public String getALlProductss()
 	{
-		return null;
+		return "alll prodbbb";
 	}
 }
